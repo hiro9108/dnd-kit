@@ -1,0 +1,32 @@
+.container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container .drop {
+  font-size: xx-large;
+  padding: 0.5rem 1rem;
+  color: white;
+  background-color: rgba(128, 128, 128, 0.219);
+}
+/* .container .drag {
+  padding: 0.5rem 1rem;
+  color: black;
+  background-color: rgb(255, 100, 255);
+  margin-right: 10rem;
+} */
+
+/* .container ul {
+  list-style: none;
+  background-color: gray;
+}
+
+.container li {
+  margin: 2rem 0;
+  padding: 0.5rem 2rem;
+  background-color: aquamarine;
+  border: 1px solid black;
+  box-shadow: 1px 2px 2px rgba(0, 0, 0, 0.6);
+} */
